@@ -20,7 +20,7 @@ npm install -g newman
 # Contenido del proyecto
 
 - Colección de Postman con los endpoints automatizados y la variable de entorno-->GoRestAPItests.postman_collection.json / GoRestEnv.postman_environment.json	
-- Flujo de GitHub Actions para ejecutar pruebas en cada push --> .github/workflows/postman.yml	
+- Flujo de GitHub Actions para ejecutar pruebas en cada push --> .github/workflows/testApi.yml	
 - Instrucciones y detalles del proyecto-->README.md
 --------------------------------------------------------------------------------------------------------------------------------
 # Token de autenticación
