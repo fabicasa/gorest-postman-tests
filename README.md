@@ -1,7 +1,7 @@
 # GoRest API Tests con Postman + GitHub actions
 
 Este proyecto automatiza pruebas sobre la API pública de la siguiente url- ( https://gorest.co.in/) 
-utilizando "Postman" para definir los endpoints y "Newman" para su ejecución automática a través de "GitHub Actions" (CI/CD).
+utilizando "Postman" para definir los endpoints y "Newman", para su ejecución automática a través de "GitHub Actions" (CI/CD).
 
 ------------------------------------------------------------------------------------------------------------------------------
 
