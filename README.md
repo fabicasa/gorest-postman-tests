@@ -34,7 +34,6 @@ Se debe configurar como una variable de entonrno llamada ACCESS_TOKEN
 ----------------------------------------------------------------------------------------------------------------------------------
 # Ejecutar pruebas localmente
 Ejecutar colección con Newman en el Git: newman run gorest-api.postman_collection.json
-
 # Integración continua con Github
 Se ejecuta automáticamente la colección cada que se hace push a la rama.
 newman run gorest-api.postman_collection.json
